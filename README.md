@@ -23,8 +23,8 @@ This is a fun and creative front-end project built using **HTML and CSS only**. 
 
 ## 📸 Preview
 
-![Cat Painting Preview](preview.png)  
-*(Replace this with an actual screenshot if available)*
+![Screenshot 2025-06-04 132638](https://github.com/user-attachments/assets/bdd34538-5e92-45d9-9109-13960b2bbe68)
+
 
 ---
 
@@ -32,4 +32,4 @@ This is a fun and creative front-end project built using **HTML and CSS only**. 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fcc-cat-painting.git
+   git clone https://github.com/rohnroy0/cat-painting.git
