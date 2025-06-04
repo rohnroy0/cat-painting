@@ -23,7 +23,7 @@ This is a fun and creative front-end project built using **HTML and CSS only**. 
 
 ## 📸 Preview
 
-![Screenshot 2025-06-04 132638](https://github.com/user-attachments/assets/bdd34538-5e92-45d9-9109-13960b2bbe68)
+(./preview00.png)
 
 
 ---
