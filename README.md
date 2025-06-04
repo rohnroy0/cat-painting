@@ -23,7 +23,7 @@ This is a fun and creative front-end project built using **HTML and CSS only**. 
 
 ## 📸 Preview
 
-!(./preview00.png)
+https://raw.githubusercontent.com/rohnroy0/cat-painting/1a7f5a99df3c42e92fa17c9f90303ae632d2c229/preview00.png
 
 
 ---
