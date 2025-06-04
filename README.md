@@ -23,7 +23,7 @@ This is a fun and creative front-end project built using **HTML and CSS only**. 
 
 ## 📸 Preview
 
-(./preview00.png)
+!(./preview00.png)
 
 
 ---
